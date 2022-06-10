@@ -1,1 +1,23 @@
 
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Your Great App's Changelog</title>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 2.0 (2 bugs fixed; 3 new features)</title>
+            <link>https://sparkle-project.org</link>
+            <sparkle:version>2.0</sparkle:version>
+            <sparkle:releaseNotesLink>
+                https://you.com/app/2.0.html
+            </sparkle:releaseNotesLink>
+            <sparkle:fullReleaseNotesLink>
+                https://you.com/app/changelog.php
+            </sparkle:fullReleaseNotesLink>
+            <pubDate>Wed, 09 Jan 2022 19:20:11 +0000</pubDate>
+            <enclosure url="https://github.com/Mechagnome/AxFinderReleases/releases/download/0.0.1/AxFinder.zip" length="47513080" type="application/octet-stream" sparkle:edSignature="5GJmJNTXTzY8iUMuPzqFEvuV11TS19T32LFc5L7r2QDQ+bL5cYCN7xqI9SlAXJOHenUDrr7cibwrg4dc4mIRAw==" />
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
+</rss>
