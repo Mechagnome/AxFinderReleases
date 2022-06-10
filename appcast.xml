@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="0.0.1" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>Your Great App's Changelog</title>
-        <language>zh</language>
         <item>
             <sparkle:version>0.0.2</sparkle:version>
                 <description><![CDATA[
