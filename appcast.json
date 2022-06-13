@@ -1,0 +1,16 @@
+{
+    "version": "0.0.2",
+    "channel": [
+        {
+            "version": "0.0.2",
+            "description": "<![CDATA[<h2>New Features</h2>]]>",
+            "enclosure": {
+                "url": "https://github.com/Mechagnome/AxFinderReleases/releases/download/0.0.1/AxFinder.zip",
+                "length": "47513080",
+                "type": "application/octet-stream",
+                "edSignature": "5GJmJNTXTzY8iUMuPzqFEvuV11TS19T32LFc5L7r2QDQ+bL5cYCN7xqI9SlAXJOHenUDrr7cibwrg4dc4mIRAw==",
+                "minimumSystemVersion": "11.0"
+            }
+        }
+    ]
+}
