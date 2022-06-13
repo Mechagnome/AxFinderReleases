@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="0.0.2" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
             <sparkle:version>0.0.2</sparkle:version>
                 <description><![CDATA[
             <h2>New Features</h2>
-            ...
             ]]>
             </description>
             <enclosure url="https://github.com/Mechagnome/AxFinderReleases/releases/download/0.0.1/AxFinder.zip" length="47513080" type="application/octet-stream" sparkle:edSignature="5GJmJNTXTzY8iUMuPzqFEvuV11TS19T32LFc5L7r2QDQ+bL5cYCN7xqI9SlAXJOHenUDrr7cibwrg4dc4mIRAw==" />
